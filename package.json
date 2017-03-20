@@ -1,0 +1,33 @@
+{
+  "name": "IRC",
+  "version": "1.0.0",
+  "description": "The IRC repo.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "http://registry.myntra.com:8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:myntra/myx-shortenurl.git"
+  },
+  "keywords": [
+    "urlshortner"
+  ],
+  "dependencies": {
+    "aerospike": "2.4.0",
+    "async": "0.9.0",
+    "base-converter": "^1.1.2",
+    "body-parser": "1.12.3",
+    "errorhandler": "~1.2.2",
+    "express": "~4.7.4",
+    "jade": "^1.11.0",
+    "method-override": "^2.3.5",
+    "moment-timezone": "^0.5.0",
+    "serve-favicon": "^2.3.0",
+    "underscore": "^1.7.0",
+    "shortid": "^2.2.6"
+  }
+}
