@@ -1,0 +1,12 @@
+2017-03-20T11:08:00.868Z [INFO]    No log path provided, using /Users/M01352/Documents/CodeBase/irc/logs
+2017-03-20T11:08:01.702Z [DEBUG]   Sent: NICK pratheesh
+
+2017-03-20T11:08:01.703Z [DEBUG]   Sent: USER irc-js 0 * :IRC-JS Bot
+
+2017-03-20T11:08:02.930Z [ERROR]   Received error 433 from cherryh.freenode.net with params *, pratheesh, :Nickname is already in use.
+2017-03-20T11:08:40.803Z [INFO]    No log path provided, using /Users/M01352/Documents/CodeBase/irc/logs
+2017-03-20T11:08:41.407Z [DEBUG]   Sent: NICK pratheesh
+
+2017-03-20T11:08:41.407Z [DEBUG]   Sent: USER irc-js 0 * :IRC-JS Bot
+
+2017-03-20T11:08:52.384Z [ERROR]   Received error 433 from orwell.freenode.net with params *, pratheesh, :Nickname is already in use.
